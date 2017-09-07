@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "aws-sdk": "^2.109.0"
+  },
+  "name": "s3_upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Andy Scott",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
