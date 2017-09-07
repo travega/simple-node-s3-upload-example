@@ -1,5 +1,5 @@
 # S3 Upload Example - Node.js
-This simple code example takes an image file and uploads it to an AWS S3 bucket.
+This super simple code example takes an image file and uploads it to an AWS S3 bucket.
 
 ## Prerequisite
 You will need to have:
@@ -11,7 +11,7 @@ You will need to have:
 Open the `index.js` file and enter the relevant details for each `TODO` item.
 
 ## Run
-To get run the example execute the following in order:
+To run the example execute the following in order:
 
 ```
 cd s3_upload
